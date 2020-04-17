@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\bin\Debug\TimerClose.exe.config
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\bin\Debug\TimerClose.exe
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\bin\Debug\TimerClose.pdb
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\bin\Debug\TimerClose.xml
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.Close.resources
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.Resources.resources
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.exe
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.xml
+C:\Users\Administrator\Desktop\TimerClose\TimerClose\obj\Debug\TimerClose.pdb
